@@ -54,13 +54,21 @@ To prepare a deployment of project, run that command at project directory:
 
 # Application Structure
 
--   index.js - The entry point to our application.
+   index.js - The entry point to our application.
 -   components - react components that are used by containers.
 -   containers - react component that does data fetching.
 -   actions - actions folder.
 -   assets - css, images and font folders.
 -   reducers - redux reducers.
 -   stores - redux stores and middlewares that are used.
+
+
+# TODO
+
+- css improvements
+- write more test cases
+- do some logging
+- authorization
 
 # License
 
