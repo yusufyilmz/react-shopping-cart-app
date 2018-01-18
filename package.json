@@ -1,0 +1,37 @@
+{
+  "name": "reactloginform",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --watchAll",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "enzyme-to-json": "^3.3.0",
+    "jest": "^22.0.6",
+    "jest-cli": "^22.0.6",
+    "jsdom": "^11.5.1",
+    "jsdom-global": "^3.0.2",
+    "react-test-renderer": "^16.2.0",
+    "sinon": "^4.1.5",
+    "shallow": "^1.0.0",
+    "redux-test-utils": "^0.2.2",
+    "enzyme-redux": "^0.1.7"
+  }
+}
